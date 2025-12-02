@@ -1,3 +1,26 @@
-# Ignore VSCode settings folders
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE & System
 .vscode/
-**/.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# 42 Specific
+*_test
