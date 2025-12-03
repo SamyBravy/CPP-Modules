@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-C++98-00599C.svg)](https://isocpp.org/)
 [![Build](https://img.shields.io/badge/Build-Makefile-brightgreen.svg)]()
 
-## Abstract
+## Overview
 
 This repository contains a comprehensive collection of C++ implementations developed strictly adhering to the **C++98 standard**. The project consists of 10 modules (00-09), designed to provide a deep dive into **Object-Oriented Programming (OOP)** mechanics.
 
